@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
-  <h3>👋 Hi, I’m Ridha Rahmi </h3>
-  <h4>🌱 Web Developer 📫 💞️ 👀</h4>
+  <h3>👋 Hi, I’m Ridha Rahmi  </h3>
+  <h4>🌱 Web Developer PHP 📫 💞️ 👀</h4>
 </div>
 <div id="badges" align="center">
     <a href="https://www.facebook.com/MedRidhaRahmi/" target="_blank">
