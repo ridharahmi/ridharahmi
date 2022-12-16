@@ -4,13 +4,13 @@
   <h4>🌱 Web Developer 📫 💞️ 👀</h4>
 </div>
 <div id="badges" align="center">
+    <a href="https://www.facebook.com/MedRidhaRahmi/" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Ridha Rahmi" title="Ridha Rahmi"/>
+  </a>
   <a href="https://www.linkedin.com/in/ridharahmi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ridha Rahmi" title="Ridha Rahmi"/>
   </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Ridha Rahmi" title="Ridha Rahmi"/>
-  </a>
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://twitter.com/_rahmiridha" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Ridha Rahmi" title="Ridha Rahmi"/>
   </a>
 </div>
