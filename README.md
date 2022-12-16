@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
-  <h3>👋 Hi, I’m Ridha Rahmi  </h3>
-  <h4>🌱 Web Developer PHP 📫 💞️ 👀</h4>
+  <h3> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ Hi, I’m Ridha Rahmi  </h3>
+  <h4>👋 🌱 Web Developer PHP 📫 💞️ 👀</h4>
 </div>
 <div id="badges" align="center">
     <a href="https://www.facebook.com/MedRidhaRahmi/" target="_blank">
@@ -15,9 +16,11 @@
   </a>
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Ridha Rahmi" title="Ridha Rahmi"/>
+<img src="https://komarev.com/ghpvc/?username=ridharahmi&style=flat-square&color=blue" alt="Ridha Rahmi" title="Ridha Rahmi"/>
 </div>
 <div align="center">
+ <h5>:hammer_and_wrench: Languages and Tools :</h5>
+
   <br> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original-wordmark.svg" title="Drupal" alt="Drupal" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
