@@ -14,6 +14,9 @@
   <a href="https://twitter.com/_rahmiridha" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Ridha Rahmi" title="Ridha Rahmi"/>
   </a>
+   <a href="https://www.drupal.org/u/ridha-rahmi" target="_blank">
+    <img src="https://img.shields.io/badge/drupal-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Ridha Rahmi" title="Ridha Rahmi"/>
+  </a>
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ridharahmi&style=flat-square&color=blue" alt="Ridha Rahmi" title="Ridha Rahmi"/>
